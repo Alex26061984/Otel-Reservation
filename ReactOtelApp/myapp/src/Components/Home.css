@@ -1,0 +1,14 @@
+.delete-btn{
+    background-color: red;
+  }
+  .delete-btn:hover{
+    background-color: rgb(150, 0, 0);
+  }
+
+  .edit-btn{
+    background-color: green;
+  }
+
+  .edit-btn :hover{
+    background-color: rgb(1, 78, 1);
+  }
